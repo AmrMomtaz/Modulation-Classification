@@ -21,3 +21,13 @@ Training performance:<br>
 ![Train](https://github.com/AmrMomtaz/Modulation-Classification/blob/main/images/tarining.png)
 
 ## Testing
+
+Classification report :<br>
+![Classification report](https://github.com/AmrMomtaz/Modulation-Classification/blob/main/images/report.png)<br>
+Confusion matrix :<br>
+![Confusion matrix](https://github.com/AmrMomtaz/Modulation-Classification/blob/main/images/cm_all.png)<br>
+Accuracy against different SNR:<br>
+![Accuracies](https://github.com/AmrMomtaz/Modulation-Classification/blob/main/images/accuracy_SNR.png)<br>
+
+Please check the notebook to see the confusion matrix for each different SNR.<br>
+<b>Conculsion:</b> The classification is better for high SNR compared to low SNR which make sense because high SNR contains less noise in the signal.
